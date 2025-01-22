@@ -1,0 +1,42 @@
+{
+  "name": "functional-programming-ts",
+  "version": "1.0.0",
+  "description": "Masterclass sur la programmation fonctionnelle avec TypeScript et ts-belt",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "lint": "eslint . --ext .ts",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisVannobel/functional-programming-ts.git"
+  },
+  "keywords": [
+    "functional-programming",
+    "typescript",
+    "ts-belt"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LouisVannobel/functional-programming-ts/issues"
+  },
+  "homepage": "https://github.com/LouisVannobel/functional-programming-ts#readme",
+  "dependencies": {
+    "@mobily/ts-belt": "^3.13.1",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.18.0",
+    "@types/jest": "^29.5.14",
+    "@typescript-eslint/eslint-plugin": "^8.21.0",
+    "@typescript-eslint/parser": "^8.21.0",
+    "eslint": "^9.18.0",
+    "globals": "^15.14.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5"
+  }
+}

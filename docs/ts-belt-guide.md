@@ -17,15 +17,15 @@ ou
 ## Modules principaux
 La bibliothèque est structurée en plusieurs modules, chacun dédié à un type de données ou à des opérations spécifiques :
 
-Array (A) : Fonctions utilitaires pour les tableaux.
-Boolean (B) : Fonctions utilitaires pour les booléens.
-Function (F) : Fonctions utilitaires diverses (par exemple, `debounce`, `throttle`).
-Guards (G) : Garde-types pour TypeScript.
-Number (N) : Fonctions utilitaires pour les nombres.
-Object (D) : Fonctions utilitaires pour les objets.
-Option (O) : Gestion des valeurs optionnelles, représentant la présence ou l'absence d'une valeur.
-Result (R) : Gestion des opérations pouvant échouer, sans recourir aux exceptions.
-String (S) : Fonctions utilitaires pour les chaînes de caractères.
+Array (A) : Fonctions utilitaires pour les tableaux.  
+Boolean (B) : Fonctions utilitaires pour les booléens.  
+Function (F) : Fonctions utilitaires diverses (par exemple, `debounce`, `throttle`).  
+Guards (G) : Garde-types pour TypeScript.  
+Number (N) : Fonctions utilitaires pour les nombres.  
+Object (D) : Fonctions utilitaires pour les objets.  
+Option (O) : Gestion des valeurs optionnelles, représentant la présence ou l'absence d'une valeur.  
+Result (R) : Gestion des opérations pouvant échouer, sans recourir aux exceptions.  
+String (S) : Fonctions utilitaires pour les chaînes de caractères.  
 
 ## Exemples d'utilisation
 
